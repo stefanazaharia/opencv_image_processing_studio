@@ -26,8 +26,8 @@ opencv-image-processing-studio/
 ├── script.py             # Algoritmii OpenCV și logica de procesare a imaginilor
 ├── imagini_test/         # Director opțional pentru imagini de testare
 ├── requirements.txt      # Dependențele necesare proiectului
-└── README.md             # Documentația proiectului<img width="976" height="532" alt="Screenshot 2026-10-09 200048" src="https://github.com/user-attachments/assets/530d33dd-a89c-4e64-be82-a41060371461" />
+└── README.md             # Documentația proiectului
+```
 
-![Uploading Screenshot 2026-10-09 200048.png…]()
-
+<img width="976" height="532" alt="Screenshot 2026-10-09 200048" src="https://github.com/user-attachments/assets/42f06946-3b77-421b-ba03-6f8a194d26e0" />
 
